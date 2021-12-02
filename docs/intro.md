@@ -2,34 +2,24 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Perkenalan
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Selamat datang di Bootcamp Website Development Series
+dari **[GDSC Universitas Sriwijaya](https://www.instagram.com/gdsc.unsri/)**.
 
-## Getting Started
+Website berikut merupakan pedoman dalam pelaksanaan bootcamp yang akan diadakan pada tanggal 15 dan 17 Desember 2021
+dengan materi mengenai dasar-dasar teknologi dalam membangun suatu webiste.
 
-Get started by **creating a new site**.
+## Source Code Praktek
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Source code contoh-contoh program bisa diunduh di [dsc-unsri/webdev-series](https://github.com/DSC-UNSRI/webdev-series)
+. Dianjurkan untuk tidak copy-paste dari source code dalam proses belajar, usahakan untuk menulis sendiri kode program
+agar terbiasa dan mengetahui kegunaan atau perubahan yang terjadi pada tampilan website.
 
-## Generate a new site
+## Kontributor
 
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+<table>
+    <tr>
+        <td align="center"><a href="https://www.linkedin.com/in/arya-yunanta-255424174/"><img src="https://avatars.githubusercontent.com/u/77351340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arya Yunanta</b></sub></a></td>
+    </tr>
+</table>
