@@ -46,21 +46,15 @@ const config = {
       navbar: {
         title: 'GDSC Universitas Sriwijaya',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'GDSC UNSRI',
+          src: 'img/logo1.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            label: 'Dokumentasi',
           },
         ],
       },
@@ -102,12 +96,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/DSC-UNSRI',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GDSC UNSRI. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
