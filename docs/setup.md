@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 id: setup
-title:Instalasi Editor
+title: Instalasi Editor
 ---
 
 # Instalasi Editor
