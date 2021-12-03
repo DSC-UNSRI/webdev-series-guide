@@ -2,6 +2,8 @@
 title: 02 - Text
 ---
 
+# Text
+
 ## Heading
 
 HTML headings adalah sebuah tag yang digunakan untuk mendefinisikan judul, atau sub-judul yang ingin ditampilkan pada

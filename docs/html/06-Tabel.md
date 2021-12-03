@@ -2,6 +2,8 @@
 title: 06 - Tabel
 ---
 
+# Tabel
+
 Pada HTML kita juga dapat membuat tabel dengan elemen `<table></table>`.
 
 ```html

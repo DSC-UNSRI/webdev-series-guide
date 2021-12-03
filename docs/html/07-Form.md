@@ -2,6 +2,8 @@
 title: 07 - Form
 ---
 
+# Form
+
 Selain konten seperti teks, gambar, atau video, kita juga dapat menerima input dari pengguna melalui formulir. HTML
 menyediakan elemen `<form></form>` untuk menerima input dari user seperti text, file, button, dll. Form dikirim ke
 alamat yang ditentukan oleh atribut `action`.
