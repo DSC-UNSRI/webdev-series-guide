@@ -1,5 +1,5 @@
 ---
-title: 06- Tabel
+title: 06 - Tabel
 ---
 
 Pada HTML kita juga dapat membuat tabel dengan elemen `<table></table>`.
@@ -68,6 +68,7 @@ Adapun kika ingin melakukan penggabungan antara baris satu dengan baris lainya, 
 , yang dimana akan melakukan penggabungan antar baris (vertikal).
 
 ```html
+
 <table border="1">
     <tr>
         <th>Name</th>

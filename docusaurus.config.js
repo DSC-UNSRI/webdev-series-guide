@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Web Development Series Guide',
   tagline: 'Web Development',
-  url: 'https://www.instagram.com/gdsc.unsri/',
+  url: 'https://dsc-unsri.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Google Developer Student Club UNSRI', // Usually your GitHub org/user name.
+  organizationName: 'Google Developer Student Clubs - Sriwijaya University ', // Usually your GitHub org/user name.
   projectName: 'webdev-series-guide', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [

@@ -1,8 +1,8 @@
 ---
-title: 05 - Image
+title: 05 - Gambar
 ---
 
-## Image
+## Gambar
 
 Pada sebuah website terdapat bermacam-macam konten seperti teks, gambar, dan video. HTML menyediakan elemen untuk
 menampilkan suatu gambar.
