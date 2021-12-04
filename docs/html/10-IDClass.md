@@ -1,5 +1,5 @@
 ---
-title: 08 - ID dan Class
+title: 10 - ID dan Class
 ---
 
 # ID dan Class
