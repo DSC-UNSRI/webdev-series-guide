@@ -22,5 +22,6 @@ agar terbiasa dan mengetahui kegunaan atau perubahan yang terjadi pada tampilan 
     <tr>
         <td align="center"><a href="https://www.linkedin.com/in/arya-yunanta-255424174/"><img src="https://avatars.githubusercontent.com/u/77351340?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arya Yunanta</b></sub></a></td>
         <td align="center"><a href="https://www.linkedin.com/in/irvanmalik48/"><img src="https://avatars.githubusercontent.com/u/71539547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Irvan Malik</b></sub></a></td>
+        <td align="center"><a href="https://www.linkedin.com/in/zidane-arkan-96b1721b3/"><img src="https://avatars.githubusercontent.com/u/70956210?v=4" width="100px;" alt=""/><br /><sub><b>M.Zidane Arkan</b></sub></a></td>
     </tr>
 </table>
