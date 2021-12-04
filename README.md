@@ -8,22 +8,44 @@ Terbuka untuk kontribusi dengan cara mengirimkan Pull Request.
 
 ### Instalasi
 
+Menggunakan `yarn` :
+
 ```
 $ yarn install
 ```
 
+Menggunakan `npm` :
+
+```
+$ npm i
+```
+
 ### Local Development
+
+Menggunakan `yarn` :
 
 ```
 $ yarn start
 ```
 
-Buka http://localhost:3000
+Menggunakan `npm` :
+
+```
+$ npm run start
+```
+
+> Buka <http://localhost:3000>
 
 ### Build
+
+Menggunakan `yarn` :
 
 ```
 $ yarn build
 ```
 
-Belajar Branch
+Menggunakan `npm` :
+
+```
+$ npm run build
+```
