@@ -16,7 +16,7 @@ Properti ini berguna untuk menentukan *font* jenis apa yang ingin kita gunakan. 
         font-family: 'Open sans';
     }
 ```
-`font-family` juga memiliki sistem ***fallback***, sistem ini digunakan untuk menjamin kompabilitas browser terhadap suatu jenis *font*, sebab terdapat jenis-jenis *font* yang tidak dapat digunakan di web tertentu. Penulisan-nya pun sederhana cukup tambahkan *font* baru setelah *font* utama. Disarankan untuk menggunakan jenis font *default* yang dimiliki masing-masing browser, [Cek Font Default Setiap Browser](https://granneman.com/webdev/coding/css/fonts-and-formatting/web-browser-font-defaults).
+`font-family` juga memiliki sistem ***fallback***, sistem ini digunakan untuk menjamin kompabilitas browser terhadap suatu jenis *font*, sebab terdapat jenis-jenis *font* yang tidak dapat digunakan di web tertentu. Penulisan-nya pun sederhana cukup tambahkan *font* baru setelah *font* utama. Disarankan untuk menggunakan jenis font *default* yang dimiliki masing-masing browser, [Cek Font Default Browser](https://granneman.com/webdev/coding/css/fonts-and-formatting/web-browser-font-defaults).
 ```css
     .header{
         font-family: 'Arial', sans-serif;
