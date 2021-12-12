@@ -33,7 +33,7 @@ Lalu, jika sudah diberi Box Model, kira-kira akan menjadi seperti ini:
 
 **Content** merupakan gambar atau tulisan yang dibuat untuk ditampilkan. Biasa dibuat di halaman HTML. Content yang akan dibungkus dalam Box Model biasa akan diberi tag `<div></div>`.
 
-```
+```html
 <html>
     <head> 
     <title>
@@ -48,13 +48,13 @@ Lalu, jika sudah diberi Box Model, kira-kira akan menjadi seperti ini:
 ```
 
 **Margin** merupakan ruang atau spasi antara satu elemen dengan elemen lainnya. Margin bersifat transparan sehingga antar elemen tidak saling menempel.
-```
+```css
 div {
     margin: 20px;
 }
 ```
 Kita juga bisa memilih margin mana yang mau kita atur dengan menambahkan `-top`, `-bottom`, `-left`, atau `-right`.
-```
+```css
 div {
     margin-top: 20px;
     margin-left: 10px;
@@ -63,7 +63,7 @@ div {
 
 **Border** merupakan garis tepi atau garis pembatas yang memisahkan elemen kita dengan sekelilingnya. Kita bisa mengatur warna, ketebalan, dan jenis garis yang digunakan. Strukturnya `border: ketebalanpx warna jenis;`
 
-```
+```css
 div {
     border: 5px red solid;
 }
@@ -71,14 +71,14 @@ div {
 
 **Padding** merupakan ruang kosong transparan yang berada di sekeliling konten. Hal ini membuat konten tampak lebih rapi dan tidak menempel dengan bordernya.
 
-```
+```css
 div {
     padding: 20px;
 }
 ```
 Sama seperti margin, kita juga bisa memilih padding mana yang mau diatur dengan menambahkan `-top `, `-bottom`, `-left`, atau `-right`.
 
-```
+```css
 div {
     padding-top: 20px;
     padding-bottom: 5px;
@@ -91,7 +91,7 @@ div {
 
 Mengatur ukuran Box Model bisa banget dilakukan dengan menggunakan properti `width` dan `height`
 
-```
+```css
 div {
     width: 50px;
     height: 35px;
@@ -102,7 +102,7 @@ div {
 
 Kita beri contoh kode untuk menampilkan tampilan yang ada di atas tadi ya..
 
-```
+```html
 <html>
     <head>
         <title> Test </title>
@@ -119,7 +119,7 @@ Kita beri contoh kode untuk menampilkan tampilan yang ada di atas tadi ya..
 </html>
 ```
 
-```
+```css
 div {
     background-color: antiquewhite;
     width: fit-content;
