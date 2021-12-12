@@ -8,7 +8,8 @@ Terdapat berbagai cara untuk meletakkan atau menghubungkan css pada dokumen HTML
 
 ## Inline CSS
 
-Kita dapat meletakkan kode css langsung pada elemen html dengan menggunakan atribut `style`. Akan tetapi cara ini **tidak**
+Kita dapat meletakkan kode css langsung pada elemen html dengan menggunakan atribut `style`. Akan tetapi cara ini **
+tidak**
 disarankan, karena apabila semakin banyak html dan css kita, maka akan semakin sulit untuk membaca kode nanti.
 
 ```html
