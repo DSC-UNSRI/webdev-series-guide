@@ -10,7 +10,7 @@ const config = {
   tagline: 'Web Development',
   url: 'https://dsc-unsri.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Google Developer Student Clubs - Sriwijaya University ', // Usually your GitHub org/user name.
