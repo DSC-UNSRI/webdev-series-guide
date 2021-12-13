@@ -27,5 +27,6 @@ agar terbiasa dan mengetahui kegunaan atau perubahan yang terjadi pada tampilan 
     </tr>
     <tr>
         <td align="center"><a href="https://www.linkedin.com/in/nadya-angelia-1062731ba/"><img src="https://avatars.githubusercontent.com/nadyaangel" width="100px;" alt=""/><br /><sub><b>Nadya Angelia</b></sub></a></td>
+        <td align="center"><a href="https://www.linkedin.com/in/betha-rianti-3626201ba/"><img src="https://avatars.githubusercontent.com/bethaarnt" width="100px;" alt=""/><br /><sub><b>Betha Rianti</b></sub></a></td>
     </tr>
 </table>
